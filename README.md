@@ -1,3 +1,5 @@
+> **Ovia Inc fork** — We maintain this fork of [stablyai/orca](https://github.com/stablyai/orca), the ADE for working with a fleet of parallel agents — run any coding agent with your own subscription, on desktop, mobile, and remote runtimes. Multi-agent fleets are how we run our own build work, so we track this design closely. Upstream credit: Stably AI. License: MIT (see LICENSE). The upstream project is documented below.
+
 <h1 align="center">
   <a href="https://onOrca.dev"><img src="resources/build/icon.png" alt="Orca" width="64" valign="middle" /></a> Orca
 </h1>
